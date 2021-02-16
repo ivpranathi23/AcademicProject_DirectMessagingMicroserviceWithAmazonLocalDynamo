@@ -1,0 +1,1 @@
+# AcademicProject_DirectMessagingMicroserviceWithAmazonLocalDynamo
